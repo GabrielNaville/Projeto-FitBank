@@ -1,0 +1,24 @@
+--------------------------------------------------------------------------------
+
+1 - X-Burguer - (Tempo de Espera - 420 Segundo)
+R$14.00
+
+2 - X-Salada - (Tempo de Espera - 420 Segundos)
+R$16.50
+
+3 - X-Bacon - (Tempo de Espera - 420 Segundos)
+R$18.50
+
+4 - Cachorro Quente - Simples - (Tempo de Espera - 300 Segundos)
+R$7.00
+ 
+5 - Cachorro Quente - Completo - (Tempo de Espera - 300 Segundos)
+R$9.00
+ 
+6 - Coxinha - (Tempo de Espera - 25 Segundos)
+R$2.50
+
+7 - Risoles - (Tempo de Espera - 25 Segundos)
+R$2.00
+
+--------------------------------------------------------------------------------
